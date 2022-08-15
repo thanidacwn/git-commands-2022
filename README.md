@@ -217,7 +217,7 @@ test/
 
 ## Branch and Merge
 
-> TODO write the commands to do each of these
+<!-- > TODO write the commands to do each of these -->
 1. Create a new branch named `dev-foo`:
    ```
    git branch dev-foo
