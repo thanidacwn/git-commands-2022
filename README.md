@@ -1,3 +1,5 @@
+# The Ultimate Guide to Using Git
+***For The Impatient.***
 ## Using Git
 
 <!-- > TODO: Create a table of contents here.  Each line should be a clickable link to each part of this document or another file containing the questions and answers. One item per line. -->
