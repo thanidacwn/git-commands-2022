@@ -54,7 +54,7 @@
 
    > What happends : README.md on github will not update because git not allow to overwrite a repository
 
-   > How to fix : 
+   > How to fix : You should to edit README.md on your repository only 
 
 
 
